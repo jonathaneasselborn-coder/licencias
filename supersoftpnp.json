@@ -1,5 +1,9 @@
 {
- "actualizado": "2026-10-01T18:05:45",
+ "actualizado": "2026-10-02T15:13:25",
+ "anuladas": [],
+ "bloqueados": [
+  "748139bec8ee5dc1dc06603621dd57f6b3f446afd41a076db92743eb28b9cc74"
+ ],
  "canal": "supersoftpnp",
  "licencias": {
   "748139bec8ee5dc1dc06603621dd57f6b3f446afd41a076db92743eb28b9cc74": "20261216-6E2C-4293-9123-3E37"
