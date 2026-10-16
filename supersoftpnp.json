@@ -1,13 +1,11 @@
 {
- "actualizado": "2026-10-16T11:30:03",
+ "actualizado": "2026-10-16T11:30:51",
  "anuladas": [
   "57fe4feb2dde151a29a6346f55792ca0dddd1c78e0463847ecd3fea823692d72"
  ],
  "aviso_dias": 7,
  "avisos": {},
- "bloqueados": [
-  "748139bec8ee5dc1dc06603621dd57f6b3f446afd41a076db92743eb28b9cc74"
- ],
+ "bloqueados": [],
  "canal": "supersoftpnp",
  "licencias": {
   "4abdba260d34394d2d24450e667f48cd44648f32f6681883dd43dbcda5b54fde": "20261031-CE55-5183-CB1E-6853",
