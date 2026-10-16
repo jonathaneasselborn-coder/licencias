@@ -1,12 +1,15 @@
 {
- "actualizado": "2026-10-15T22:04:41",
+ "actualizado": "2026-10-15T22:05:43",
  "anuladas": [
   "57fe4feb2dde151a29a6346f55792ca0dddd1c78e0463847ecd3fea823692d72"
  ],
  "aviso_dias": 7,
  "avisos": {
+  "4abdba260d34394d2d24450e667f48cd44648f32f6681883dd43dbcda5b54fde": {
+   "mensaje": "gAAAAABq0Xhnp4upGn_N4TuoGcpRTgd9w1EETWOHuzeCgWkZ53nDSIFc5dCMhQdrN0bMGZ2k6ZpL9nz81sjmqTmzxhwoZDn13sS6eYdmBBGJ_rLHBzNMH3_LlsYfbyVHfQiAw58NLPq-c48b5JS-YJrXBjBZYO1qj6xo18UzGKtFB03ew6cEBtwA4nUgJSZaBD0AzphgO2fW"
+  },
   "748139bec8ee5dc1dc06603621dd57f6b3f446afd41a076db92743eb28b9cc74": {
-   "mensaje": "gAAAAABq0XgpX8-tzcncSOEt6WH3L_YKe4_nFkVakA9pDU4SH7mEUKKqkDtJklgi4dXQIZ5Kg75-GcZuc59iOkkiU4KZnu2TCEJS5sroT_zlo2PqwOTctuY5qqanm_9MmGNjIJ6j5Txfh8AW2t6xcI00D1I7uoUXPy0lpgz9yowdCe-qAUcYIeKt7Ufk-HGckOL8H3K1ULZ08JaHVtI7MYhfm7g6qNEbkA=="
+   "mensaje": "gAAAAABq0XhnchAJZK6nIfLYwqbRkUJfxA8-LNDO4hItnOyaa3a1eyv_fxHD1fr5dGU8JEC1heRGRMyfg0kuWUZWGUAQP8v2geCzLlLrVUriJ1hiLGW7T2gykYutl0gh3CuYBhTsECBBksxlDLGmDU5w1BMTN_FCHmBd5mKrs65XtV-k4oD9Sq5ZdFJKURDYTsS8F9If266AEQrtOoAt9Hxt4lQPk76xHA=="
   }
  },
  "bloqueados": [],
