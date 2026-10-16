@@ -1,9 +1,12 @@
 {
- "actualizado": "2026-10-15T09:45:32",
+ "actualizado": "2026-10-15T21:19:21",
  "anuladas": [
   "57fe4feb2dde151a29a6346f55792ca0dddd1c78e0463847ecd3fea823692d72"
  ],
+ "aviso_dias": 7,
+ "avisos": {},
  "bloqueados": [],
  "canal": "rotisoft",
- "licencias": {}
+ "licencias": {},
+ "reportes": "https://script.google.com/macros/s/AKfycbzIdZZX9NICfNScuYdNOHrsSZ8ywLpiqs_Y1eBH-WVTKXIE8t5_3iVW8wl4qKn_1Pao5w/exec"
 }
