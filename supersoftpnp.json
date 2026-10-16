@@ -1,14 +1,10 @@
 {
- "actualizado": "2026-10-15T22:07:10",
+ "actualizado": "2026-10-16T11:28:35",
  "anuladas": [
   "57fe4feb2dde151a29a6346f55792ca0dddd1c78e0463847ecd3fea823692d72"
  ],
  "aviso_dias": 7,
- "avisos": {
-  "748139bec8ee5dc1dc06603621dd57f6b3f446afd41a076db92743eb28b9cc74": {
-   "mensaje": "gAAAAABq0Xi-vBwOznLJTf8kgOh2VRctrE6NH--yMFyHAvVjsix31Jv8XeDQIRmJkGGlHHAr8cJDpbGydlpIqh8X2RVqjrzSuR_7xP67dpsxSQtqaQPMI9Et0XsYBiawaYTkS_Ds7gmGY4udpXbMQ8q97DfQsAKZgbzRXtYzIuMCQFUuROYfJuos9EnvC9DtvnW0lwp8lA-CAqT4Tx3x4iJwsB8gn36qdg=="
-  }
- },
+ "avisos": {},
  "bloqueados": [],
  "canal": "supersoftpnp",
  "licencias": {
