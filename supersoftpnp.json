@@ -1,14 +1,10 @@
 {
- "actualizado": "2026-10-19T17:02:55",
+ "actualizado": "2026-10-19T19:54:07",
  "anuladas": [
   "57fe4feb2dde151a29a6346f55792ca0dddd1c78e0463847ecd3fea823692d72"
  ],
  "aviso_dias": 7,
- "avisos": {
-  "4f8e903d48444eb737d06d7a8fd4c48130eedde98cd7ae82a5f2f3410b8435b9": {
-   "mensaje": "gAAAAABq1ndva4-2IxPcTRC4J2C0M6TpzIZEjUERRx09I1Uwr3hQuPjjnIKmM8nl7DWTQqC2c_B2gJ-04tk81zGN_6W2rOXvs28FhEjBtTkXZrFxOnntk9HYsDQjpOrufi0Ijih4JmLzr4630YtXvgOiQRYlI72cxtOPhC4tQz3CthZKqevfCIYrXmfycpXeTWzEhwFEsoP26lQhoYgSvc2p9JdnxQuqUlansurGflN4nhKHA7WZET2seI210Hx-FSGLk58O227qklr3Si5YL7dhi5KfmVCQqv4xm6nKYVzQy-YvbixyOz_p0zKlRvdypJypwiAs5cavch7I3ONOTGW9gxVsGoWOoYrR8rLvbYN4CPwWNA3OV0YyY2W76sN-Df7tod40eLal_MGNPNCv1vaBNBWOhlAlqqiimgjmOV4PSQFinxon6jYUj4n7Gv5-GSZiXHmKRvqBz9xauW0hG-l8bVowta1CExzv5qVYxAdEx5egQPmVM9SSbmkV7CKtg-IMs2b6-KW7KHHU3Tnvdbl624rlEeFV6D7PPeMAiEr7FriLQr8JBQLf52uYcyuPE28UkYY8Fi-F"
-  }
- },
+ "avisos": {},
  "bloqueados": [],
  "canal": "supersoftpnp",
  "licencias": {
