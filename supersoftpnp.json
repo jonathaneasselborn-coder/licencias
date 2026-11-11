@@ -1,19 +1,19 @@
 {
- "actualizado": "2026-11-10T17:28:19",
+ "actualizado": "2026-11-11T17:04:47",
  "anuladas": [
   "57fe4feb2dde151a29a6346f55792ca0dddd1c78e0463847ecd3fea823692d72"
  ],
  "aviso_dias": 7,
  "avisos": {
   "a8dc274f4ae12fcad9ea76378db7078c66635062e4fb5a7af19d1dba8c174541": {
-   "mensaje": "gAAAAABq835jxBEjp8dpbkObfnOehCKqrxePyXAP0lyEUAJkogqPf7RUJ8wOoRbkoz4jO1Aec3c-ZKFskhmnC_f-DFSIXD7eOsdkjPZI3ESNexPYJA9uw0vIrc3ktdoM05RnXD89usBNASmvUSRzwZp6kKEvhCMSPSTbPoTeGNm6BRNGHkMftEDBsuEB2-PQfboZ9hMxjLKJoMyWeJLVDf2EdsvkdfTKaG2rTYEjbJx8AldGsTTZ3VNnEwNiS65L1U1Zr6oJ3NLOYXUJHBn0AU_R5v54R_t_qf27sRreBmu8UBuGX-CsTWA="
+   "mensaje": "gAAAAABq9MpfT2qBk9qs5hSAmD8hLBgqnV0cEOvEsczjb1C0TaIxD4oEa9FCmuliKQxgpVmY3DaTpaEQhpgp4OCsf6VqJDU4EzvoADW7izdvQz5NqsqZmUQuMNezx5gIWrhGA2xBBd9N-7M_nfEtMDqaO1QocBb-hAvPf_yU6pHjBgA4j5ACMlmD-2bjnFUrJe5-nebT2QrSvi3W7mi7w59p2SYS4vUj2Vu-sLndDfbaEcHJGwh-UntVpE5p-ww0QF75jPi7igwhcFIOg1j6GjXE9tI2D4jTjJNv5FFa0NsrVkKTNcvTIaI="
   }
  },
  "bloqueados": [],
  "canal": "supersoftpnp",
  "licencias": {
   "4abdba260d34394d2d24450e667f48cd44648f32f6681883dd43dbcda5b54fde": "20270201-5A52-1862-B61C-C72B",
-  "4f8e903d48444eb737d06d7a8fd4c48130eedde98cd7ae82a5f2f3410b8435b9": "20261201-5270-1B36-89AA-F60E",
+  "4f8e903d48444eb737d06d7a8fd4c48130eedde98cd7ae82a5f2f3410b8435b9": "LIFETIME-A4DE-0BA0-B10F-1044",
   "748139bec8ee5dc1dc06603621dd57f6b3f446afd41a076db92743eb28b9cc74": "20261116-CEAD-546B-62BC-8DA6"
  },
  "reportes": "https://script.google.com/macros/s/AKfycbzIdZZX9NICfNScuYdNOHrsSZ8ywLpiqs_Y1eBH-WVTKXIE8t5_3iVW8wl4qKn_1Pao5w/exec"
