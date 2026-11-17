@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-12T14:10:29",
+ "actualizado": "2026-11-17T17:53:11",
  "anuladas": [
   "57fe4feb2dde151a29a6346f55792ca0dddd1c78e0463847ecd3fea823692d72",
   "c87729a58ae7f7dfe92d2a2c16c0b6967814fe8c218488749a81edb8c3b5190c"
@@ -11,7 +11,7 @@
  "licencias": {
   "4abdba260d34394d2d24450e667f48cd44648f32f6681883dd43dbcda5b54fde": "20270201-5A52-1862-B61C-C72B",
   "4f8e903d48444eb737d06d7a8fd4c48130eedde98cd7ae82a5f2f3410b8435b9": "20261212-6017-3A0A-3EA7-F87C",
-  "748139bec8ee5dc1dc06603621dd57f6b3f446afd41a076db92743eb28b9cc74": "20261116-CEAD-546B-62BC-8DA6"
+  "748139bec8ee5dc1dc06603621dd57f6b3f446afd41a076db92743eb28b9cc74": "20261218-CF54-1142-EF0F-1DAB"
  },
  "reportes": "https://script.google.com/macros/s/AKfycbzIdZZX9NICfNScuYdNOHrsSZ8ywLpiqs_Y1eBH-WVTKXIE8t5_3iVW8wl4qKn_1Pao5w/exec"
 }
